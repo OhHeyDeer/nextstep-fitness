@@ -4,3 +4,4 @@
 1. Search Engine Optimization
 2. General Site Cleanup
 3. Mobile App Transition
+4. (Not Accomplished but next) Create a 'Venting Wall' for the site customers.
